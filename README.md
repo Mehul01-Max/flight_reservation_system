@@ -1,4 +1,4 @@
-make sure to install following module!
+make sure to install following in terminal/cmd module!
 pip install tabulate
 mysql -u root -p flight_ticket_reservation_system < PATHNAME\database.sql
 pip install mysql-connector-python
